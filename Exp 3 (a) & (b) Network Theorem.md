@@ -48,7 +48,6 @@ Circuit Diagram:-
 Tabular Column:-
 <img width="1280" height="442" alt="image" src="https://github.com/user-attachments/assets/f9ff93ee-925f-4345-a700-3a7fb044de6a" />
 
-
 Results:-
 
 Thus Thevenin's theorem is verified practically and theoretically.
