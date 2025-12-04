@@ -44,7 +44,6 @@ Circuit Diagram:-
 <img width="902" height="436" alt="image" src="https://github.com/user-attachments/assets/89b37e21-d89f-43bd-93ab-10f7cabfdb98" />
 
 
-
 Tabular Column:-
 <img width="1280" height="442" alt="image" src="https://github.com/user-attachments/assets/f9ff93ee-925f-4345-a700-3a7fb044de6a" />
 
