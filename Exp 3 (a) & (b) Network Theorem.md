@@ -41,13 +41,24 @@ STEP 5 : Click on ‘PRINT’ button to takeout the print of the webpage.
 STEP 6 : Click on ‘RESET’ button to reload the webpage.
 
 Circuit Diagram:-
+<img width="902" height="436" alt="image" src="https://github.com/user-attachments/assets/89b37e21-d89f-43bd-93ab-10f7cabfdb98" />
+
+
 
 Tabular Column:-
+<img width="1280" height="442" alt="image" src="https://github.com/user-attachments/assets/f9ff93ee-925f-4345-a700-3a7fb044de6a" />
+
 
 Results:-
-Practical
 
-Theoritical
+Thus Thevenin's theorem is verified practically and theoretically.
+
+Practical:-
+<img width="1321" height="274" alt="image" src="https://github.com/user-attachments/assets/d42e69f1-91bf-4344-b6bd-66292e41e644" />
+
+
+Theoritical:-
+<img width="1280" height="1130" alt="image" src="https://github.com/user-attachments/assets/1908641d-a3ee-471a-8498-e154045c4a25" />
 
 
 
@@ -92,12 +103,23 @@ STEP 6: Click on ‘RESET’ button to reload the webpage.
 
 Circuit Diagram:-
 
+<img width="902" height="435" alt="image" src="https://github.com/user-attachments/assets/8e64040f-cbab-4fe9-8858-2393c6771cd4" />
+
+
 Tabular Column:-
 
-Results:-
-Practical
+<img width="1280" height="448" alt="image" src="https://github.com/user-attachments/assets/67001497-0310-4e25-954a-f5fc286cc90f" />
 
-Theoritical
+Results:-
+Thus Norton's theorem is verified practically and theoretically
+
+Practical:-
+<img width="1415" height="252" alt="image" src="https://github.com/user-attachments/assets/0b80431a-3176-45a9-8ea9-5a21417073e0" />
+
+
+Theoritical:-
+<img width="1600" height="1138" alt="image" src="https://github.com/user-attachments/assets/9f0dbf2f-9818-402b-8277-fe90c10dd306" />
+
 
 
 
